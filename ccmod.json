@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "title": "AlyBox",
   "description": "Library mod containing various extra features and fixes.",
+  "repository": "https://github.com/lexisother/cc-alybox",
+  "tags": ["library"],
+  "authors": "lexisother",
   "prestart": "src/_prestart.js",
   "dependencies": {
     "ccloader": ">=2.22.1"
